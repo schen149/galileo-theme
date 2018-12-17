@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "About Me"
+date:   2015-11-15 13:05:14 +0100
+categories: base
+---
+
+I am currently a full-time Research Assistant at the *University of Pennsylvania* under the guidance of Professor Dan Roth. 
+Before that, I received my B.S. in Computer Engineering from *University of Illinois* in Jan. 2018. 
+
+I study **Natural Language Processing** and **Machine Learning**. My current research is touching upon the challenges of 
+*Information Fairness & Diversity* in the context of NLP. 
+
+You can find my CV [here](/media/cv.pdf)
