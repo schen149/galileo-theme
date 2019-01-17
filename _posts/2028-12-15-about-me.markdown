@@ -11,4 +11,4 @@ Before that, I received my B.S. in Computer Engineering from *University of Illi
 I study **Natural Language Processing** and **Machine Learning**. My current research is touching upon the challenges of 
 *Information Fairness & Diversity* in the context of NLP. 
 
-You can find my CV [here](/media/cv.pdf)
+You can find my CV [<font color="blue"> here </font>](asset/cv.pdf)

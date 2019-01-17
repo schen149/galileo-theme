@@ -13,8 +13,8 @@ author_position: Research Assistant
 email: sihaoc [at] seas [dot] upenn [dot] edu
 description: > # this means to ignore newlines until "baseurl:"
   Sihao Chen - Research Assistant at University of Pennsylvania
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.seas.upenn.edu/~sihaoc/" # the base hostname & protocol for your site
+baseurl: "/~sihaoc/" # the subpath of your site, e.g. /blog
+url: "https://www.seas.upenn.edu/" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
